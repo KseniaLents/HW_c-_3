@@ -1,0 +1,15 @@
+D:\User\РабочийСтол\Homework_c#\task13\bin\Debug\net7.0\task13.exe
+D:\User\РабочийСтол\Homework_c#\task13\bin\Debug\net7.0\task13.deps.json
+D:\User\РабочийСтол\Homework_c#\task13\bin\Debug\net7.0\task13.runtimeconfig.json
+D:\User\РабочийСтол\Homework_c#\task13\bin\Debug\net7.0\task13.dll
+D:\User\РабочийСтол\Homework_c#\task13\bin\Debug\net7.0\task13.pdb
+D:\User\РабочийСтол\Homework_c#\task13\obj\Debug\net7.0\task13.csproj.AssemblyReference.cache
+D:\User\РабочийСтол\Homework_c#\task13\obj\Debug\net7.0\task13.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\РабочийСтол\Homework_c#\task13\obj\Debug\net7.0\task13.AssemblyInfoInputs.cache
+D:\User\РабочийСтол\Homework_c#\task13\obj\Debug\net7.0\task13.AssemblyInfo.cs
+D:\User\РабочийСтол\Homework_c#\task13\obj\Debug\net7.0\task13.csproj.CoreCompileInputs.cache
+D:\User\РабочийСтол\Homework_c#\task13\obj\Debug\net7.0\task13.dll
+D:\User\РабочийСтол\Homework_c#\task13\obj\Debug\net7.0\refint\task13.dll
+D:\User\РабочийСтол\Homework_c#\task13\obj\Debug\net7.0\task13.pdb
+D:\User\РабочийСтол\Homework_c#\task13\obj\Debug\net7.0\task13.genruntimeconfig.cache
+D:\User\РабочийСтол\Homework_c#\task13\obj\Debug\net7.0\ref\task13.dll

@@ -1,0 +1,15 @@
+D:\User\РабочийСтол\Homework_c#\task10\obj\Debug\net7.0\task10.csproj.AssemblyReference.cache
+D:\User\РабочийСтол\Homework_c#\task10\obj\Debug\net7.0\task10.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\РабочийСтол\Homework_c#\task10\obj\Debug\net7.0\task10.AssemblyInfoInputs.cache
+D:\User\РабочийСтол\Homework_c#\task10\obj\Debug\net7.0\task10.AssemblyInfo.cs
+D:\User\РабочийСтол\Homework_c#\task10\obj\Debug\net7.0\task10.csproj.CoreCompileInputs.cache
+D:\User\РабочийСтол\Homework_c#\task10\bin\Debug\net7.0\task10.exe
+D:\User\РабочийСтол\Homework_c#\task10\bin\Debug\net7.0\task10.deps.json
+D:\User\РабочийСтол\Homework_c#\task10\bin\Debug\net7.0\task10.runtimeconfig.json
+D:\User\РабочийСтол\Homework_c#\task10\bin\Debug\net7.0\task10.dll
+D:\User\РабочийСтол\Homework_c#\task10\bin\Debug\net7.0\task10.pdb
+D:\User\РабочийСтол\Homework_c#\task10\obj\Debug\net7.0\task10.dll
+D:\User\РабочийСтол\Homework_c#\task10\obj\Debug\net7.0\refint\task10.dll
+D:\User\РабочийСтол\Homework_c#\task10\obj\Debug\net7.0\task10.pdb
+D:\User\РабочийСтол\Homework_c#\task10\obj\Debug\net7.0\task10.genruntimeconfig.cache
+D:\User\РабочийСтол\Homework_c#\task10\obj\Debug\net7.0\ref\task10.dll
