@@ -1,0 +1,15 @@
+D:\User\РабочийСтол\Homework_c#\task29\bin\Debug\net7.0\task29.exe
+D:\User\РабочийСтол\Homework_c#\task29\bin\Debug\net7.0\task29.deps.json
+D:\User\РабочийСтол\Homework_c#\task29\bin\Debug\net7.0\task29.runtimeconfig.json
+D:\User\РабочийСтол\Homework_c#\task29\bin\Debug\net7.0\task29.dll
+D:\User\РабочийСтол\Homework_c#\task29\bin\Debug\net7.0\task29.pdb
+D:\User\РабочийСтол\Homework_c#\task29\obj\Debug\net7.0\task29.csproj.AssemblyReference.cache
+D:\User\РабочийСтол\Homework_c#\task29\obj\Debug\net7.0\task29.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\РабочийСтол\Homework_c#\task29\obj\Debug\net7.0\task29.AssemblyInfoInputs.cache
+D:\User\РабочийСтол\Homework_c#\task29\obj\Debug\net7.0\task29.AssemblyInfo.cs
+D:\User\РабочийСтол\Homework_c#\task29\obj\Debug\net7.0\task29.csproj.CoreCompileInputs.cache
+D:\User\РабочийСтол\Homework_c#\task29\obj\Debug\net7.0\task29.dll
+D:\User\РабочийСтол\Homework_c#\task29\obj\Debug\net7.0\refint\task29.dll
+D:\User\РабочийСтол\Homework_c#\task29\obj\Debug\net7.0\task29.pdb
+D:\User\РабочийСтол\Homework_c#\task29\obj\Debug\net7.0\task29.genruntimeconfig.cache
+D:\User\РабочийСтол\Homework_c#\task29\obj\Debug\net7.0\ref\task29.dll
