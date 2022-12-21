@@ -1,0 +1,15 @@
+D:\User\РабочийСтол\Homework_c#\task36\bin\Debug\net7.0\task36.exe
+D:\User\РабочийСтол\Homework_c#\task36\bin\Debug\net7.0\task36.deps.json
+D:\User\РабочийСтол\Homework_c#\task36\bin\Debug\net7.0\task36.runtimeconfig.json
+D:\User\РабочийСтол\Homework_c#\task36\bin\Debug\net7.0\task36.dll
+D:\User\РабочийСтол\Homework_c#\task36\bin\Debug\net7.0\task36.pdb
+D:\User\РабочийСтол\Homework_c#\task36\obj\Debug\net7.0\task36.csproj.AssemblyReference.cache
+D:\User\РабочийСтол\Homework_c#\task36\obj\Debug\net7.0\task36.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\РабочийСтол\Homework_c#\task36\obj\Debug\net7.0\task36.AssemblyInfoInputs.cache
+D:\User\РабочийСтол\Homework_c#\task36\obj\Debug\net7.0\task36.AssemblyInfo.cs
+D:\User\РабочийСтол\Homework_c#\task36\obj\Debug\net7.0\task36.csproj.CoreCompileInputs.cache
+D:\User\РабочийСтол\Homework_c#\task36\obj\Debug\net7.0\task36.dll
+D:\User\РабочийСтол\Homework_c#\task36\obj\Debug\net7.0\refint\task36.dll
+D:\User\РабочийСтол\Homework_c#\task36\obj\Debug\net7.0\task36.pdb
+D:\User\РабочийСтол\Homework_c#\task36\obj\Debug\net7.0\task36.genruntimeconfig.cache
+D:\User\РабочийСтол\Homework_c#\task36\obj\Debug\net7.0\ref\task36.dll

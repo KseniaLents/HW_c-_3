@@ -1,0 +1,15 @@
+D:\User\РабочийСтол\Homework_c#\task34\obj\Debug\net7.0\task34.csproj.AssemblyReference.cache
+D:\User\РабочийСтол\Homework_c#\task34\obj\Debug\net7.0\task34.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\РабочийСтол\Homework_c#\task34\obj\Debug\net7.0\task34.AssemblyInfoInputs.cache
+D:\User\РабочийСтол\Homework_c#\task34\obj\Debug\net7.0\task34.AssemblyInfo.cs
+D:\User\РабочийСтол\Homework_c#\task34\obj\Debug\net7.0\task34.csproj.CoreCompileInputs.cache
+D:\User\РабочийСтол\Homework_c#\task34\bin\Debug\net7.0\task34.exe
+D:\User\РабочийСтол\Homework_c#\task34\bin\Debug\net7.0\task34.deps.json
+D:\User\РабочийСтол\Homework_c#\task34\bin\Debug\net7.0\task34.runtimeconfig.json
+D:\User\РабочийСтол\Homework_c#\task34\bin\Debug\net7.0\task34.dll
+D:\User\РабочийСтол\Homework_c#\task34\bin\Debug\net7.0\task34.pdb
+D:\User\РабочийСтол\Homework_c#\task34\obj\Debug\net7.0\task34.dll
+D:\User\РабочийСтол\Homework_c#\task34\obj\Debug\net7.0\refint\task34.dll
+D:\User\РабочийСтол\Homework_c#\task34\obj\Debug\net7.0\task34.pdb
+D:\User\РабочийСтол\Homework_c#\task34\obj\Debug\net7.0\task34.genruntimeconfig.cache
+D:\User\РабочийСтол\Homework_c#\task34\obj\Debug\net7.0\ref\task34.dll
